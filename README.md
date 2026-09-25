@@ -1,4 +1,4 @@
-# Resume Chatbot
+# ASKFOLIO
 
 An AI chatbot that answers interview questions as a job candidate, based on their resume.
 
